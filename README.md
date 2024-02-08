@@ -7,8 +7,8 @@ TO Run this Project on Your System:-
     PORT = (Your Port)
    DB_URI = "mongodb://localhost:27017/(Your database name)"
     JWT_SECRET = (RANDOM KEY)
-     JWT_EXPIRE = ($d)
-    COOKIE_EXPIRE = ($)
+     JWT_EXPIRE = (number)d
+    COOKIE_EXPIRE = (number)
 3.Install dependencies for backend and frontend and change the TailwindConfigFIle Accordingly.
 4.open terminal and in the backend folder run nodemon /backend/server.js.
 5.open another terminal and in the frontend folder run npm run dev.
